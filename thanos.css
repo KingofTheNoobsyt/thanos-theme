@@ -92,3 +92,15 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.create-guild-container.deprecated .create-or-join .form-inner {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url(https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Emp…W_6_Textless.png/revision/latest/scale-to-width-down/350?cb=20180325144529);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 520px;
+    box-sizing: border-box;
+    height: 420px;
+    padding: 30px 24px;
+    width: 520px;
+}
