@@ -28,3 +28,7 @@ background: var(--background-image);background-position: center;;background-size
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
 .ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
 .container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+.private-channels .channel.selected a {
+    background-color: rgba(155, 19, 245, 0.6);
+    color: #fff;
+}
