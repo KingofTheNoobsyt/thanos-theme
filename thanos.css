@@ -63,3 +63,6 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #aa00f5;
     color: #fef6f6;
 }
+.tooltip.tooltip-red.tooltip-right:after {
+    border-right-color: #a800ff;
+}
