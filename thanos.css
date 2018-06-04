@@ -104,3 +104,18 @@ background: var(--background-image);background-position: center;;background-size
     padding: 30px 24px;
     width: 520px;
 }
+.create-guild-container.deprecated .action {
+    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.08);
+    -webkit-box-sizing: border-box;
+    background: hsla(0, 0%, 100%, 0);
+    border: 1px solid rgba(0,0,0,.1);
+    border-radius: 3px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 10px;
+    text-align: center;
+    width: 228px;
+}
