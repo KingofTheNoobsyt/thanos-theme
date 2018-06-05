@@ -174,3 +174,7 @@ background: var(--background-image);background-position: center;;background-size
     height: 50px;
     width: 50px;
 }
+.theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
+    background-color: #a747f0;
+    color: #fff;
+}
