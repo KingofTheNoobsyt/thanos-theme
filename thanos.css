@@ -86,6 +86,14 @@ background: var(--background-image);background-position: center;;background-size
     padding-top: 28px;
     text-transform: uppercase;
 }
+.guilds-wrapper .guilds .guild.selected:before {
+    -webkit-transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+    background: #43b581;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: -20px;
+    transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+}
 .create-guild-container.deprecated .action {
     -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.08);
     -webkit-box-sizing: border-box;
