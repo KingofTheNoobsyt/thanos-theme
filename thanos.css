@@ -101,3 +101,6 @@ background: var(--background-image);background-position: center;;background-size
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+    background: linear-gradient(to right, rgba(192, 0, 255, 0.64), rgba(162, 0, 245, 0), rgb(145, 0, 255));
+}
