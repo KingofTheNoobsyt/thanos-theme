@@ -154,3 +154,11 @@ background: var(--background-image);background-position: center;;background-size
 .create-guild-container.deprecated .action.create .action-header {
     color: rgba(114, 137, 218, 0);
 }
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://vignette.wikia.nocookie.net/chroniclesofillusion/images/8/83/Avengers_Symbol.png/revision/latest?cb=20161110053512);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    height: 50px;
+    width: 50px;
+}
