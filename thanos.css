@@ -119,3 +119,8 @@ background: var(--background-image);background-position: center;;background-size
     color: #9300ff;
     cursor: pointer;
 }
+.create-guild-container.deprecated .action.create .action-icon {
+    background: url(none) 50% no-repeat;
+    background-size: 112px 78px;
+    height: 78px;
+}
