@@ -50,6 +50,9 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.contentSelectedText-3wUhMi {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(203, 0, 245, 0.66), rgba(0, 0, 0, 0));
+}
 #dv-mount {
     background-color: rgba(47, 49, 54, 0);
     bottom: 0;
