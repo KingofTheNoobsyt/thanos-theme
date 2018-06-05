@@ -50,3 +50,14 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+#dv-mount {
+    background-color: rgba(47, 49, 54, 0);
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 95px;
+    justify-content: center;
+    position: absolute;
+    width: 240px;
+    z-index: 256;
+}
