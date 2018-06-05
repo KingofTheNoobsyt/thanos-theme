@@ -137,3 +137,6 @@ background: var(--background-image);background-position: center;;background-size
     margin-top: 16px;
     padding: 0 15px;
 }
+.create-guild-container.deprecated .action.create .action-header {
+    color: rgba(114, 137, 218, 0);
+}
