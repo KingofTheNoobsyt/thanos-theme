@@ -68,7 +68,7 @@ background: var(--background-image);background-position: center;;background-size
     background-size: 50px 50px;
     height: 50px;
     width: 50px;
-    background-color: #f04747;
+
 }
 .create-guild-container.deprecated .create-or-join .form-inner {
     -webkit-box-sizing: border-box;
