@@ -99,6 +99,9 @@ background: var(--background-image);background-position: center;;background-size
     height: 10px;
     margin-top: -6px;
 }
+.create-guild-container.deprecated .action.join .action-header {
+    color: rgba(60, 163, 116, 0);
+}
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: rgba(240, 71, 71, 0);
