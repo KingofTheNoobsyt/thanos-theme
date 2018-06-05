@@ -104,3 +104,9 @@ background: var(--background-image);background-position: center;;background-size
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
     background: linear-gradient(to right, rgba(192, 0, 255, 0.64), rgba(162, 0, 245, 0), rgb(145, 0, 255));
 }
+.guilds-wrapper .guilds .guild.unread:before {
+    background: #f04747;
+    border-radius: 5px;
+    height: 10px;
+    margin-top: -6px;
+}
