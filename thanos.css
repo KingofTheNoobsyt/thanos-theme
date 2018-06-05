@@ -28,22 +28,6 @@ background: var(--background-image);background-position: center;;background-size
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
 .ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
 .container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
-.private-channels .channel.selected a {
-    background-color: rgba(155, 19, 245, 0.6);
-    color: #fff;
-}
-
-.tooltip.tooltip-red {
-    background-color: #aa00f5;
-    color: #fef6f6;
-}
-.tooltip.tooltip-red.tooltip-right:after {
-    border-right-color: #a800ff;
-}
-.noticeInfo-3_iTE1 {
-    background-color: rgb(47, 49, 54);
-    color: #fff;
-}
 .message-group .avatar-large[style*="314206160477749250"] ~ .comment .message h2 span.username-wrapper::after {
     background-color: #faa61a !important;
     padding: 0px 4px;
@@ -65,31 +49,4 @@ background: var(--background-image);background-position: center;;background-size
     margin-left: 4px;
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
-}
-.create-guild-container.deprecated .create-or-join .form-inner {
-    -webkit-box-sizing: border-box;
-    background-color: rgba(0, 0, 0, 0);
-    background-image: url(https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Emp…W_6_Textless.png/revision/latest/scale-to-width-down/350?cb=20180325144529);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 520px;
-    box-sizing: border-box;
-    height: 420px;
-    padding: 30px 24px;
-    width: 520px;
-}
-.create-guild-container.deprecated .action {
-    -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.08);
-    -webkit-box-sizing: border-box;
-    background: hsla(0, 0%, 100%, 0);
-    border: 1px solid rgba(0,0,0,.1);
-    border-radius: 3px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
-    box-sizing: border-box;
-    cursor: pointer;
-    display: inline-block;
-    overflow: hidden;
-    padding: 10px;
-    text-align: center;
-    width: 228px;
 }
