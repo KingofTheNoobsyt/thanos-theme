@@ -32,33 +32,7 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(155, 19, 245, 0.6);
     color: #fff;
 }
-.guilds-wrapper .guilds-error:hover {
-    background-color: #9a00ff;
-}
-.guilds-wrapper .guilds-error {
-    -webkit-box-sizing: border-box;
-    background: #ab00ff;
-    border-radius: 25px;
-    box-sizing: border-box;
-    color: #fff!important;
-    display: block;
-    font-size: 20px;
-    font-weight: 700;
-    height: 50px;
-    line-height: 46px;
-    padding: 0;
-    text-align: center;
-    width: 50px;
-}
-.guilds-wrapper .guilds .friends-icon {
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Symbol_from_Marve…_Avengers_logo.svg/2000px-Symbol_from_Marvel%27s_The_Avengers_logo.svg.png);
-    background-position: 50%;
-    background-repeat: no-repeat;
-    background-size: 40px 40px;
-    height: 50px;
-    width: 50px;
-    background-color: red;
-}
+
 .tooltip.tooltip-red {
     background-color: #aa00f5;
     color: #fef6f6;
