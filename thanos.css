@@ -75,6 +75,14 @@ background: var(--background-image);background-position: center;;background-size
     padding: 30px 24px;
     width: 520px;
 }
+.form-deprecated header, .form.deprecated header {
+    color: rgba(114, 137, 218, 0);
+    font-size: 14px;
+    font-weight: 700;
+    padding-bottom: 28px;
+    padding-top: 28px;
+    text-transform: uppercase;
+}
 .create-guild-container.deprecated .action {
     -webkit-box-shadow: 0 2px 4px rgba(0,0,0,.08);
     -webkit-box-sizing: border-box;
