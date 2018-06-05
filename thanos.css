@@ -78,6 +78,10 @@ background: var(--background-image);background-position: center;;background-size
     padding: 30px 24px;
     width: 520px;
 }
+.theme-dark .cardPrimary-1Hv-to {
+    background: rgba(32, 34, 37, 0);
+    border-color: rgba(32, 34, 37, 0);
+}
 .form-deprecated header, .form.deprecated header {
     color: rgba(114, 137, 218, 0);
     font-size: 14px;
