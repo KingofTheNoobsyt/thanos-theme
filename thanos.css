@@ -87,3 +87,7 @@ background: var(--background-image);background-position: center;;background-size
     text-align: center;
     width: 228px;
 }
+.mentioned .mention:hover {
+    color: #980cff;
+    text-decoration: none;
+}
