@@ -61,3 +61,12 @@ background: var(--background-image);background-position: center;;background-size
     width: 240px;
     z-index: 256;
 }
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Symbol_from_Marve…_Avengers_logo.svg/2000px-Symbol_from_Marvel%27s_The_Avengers_logo.svg.png);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    height: 50px;
+    width: 50px;
+    background-color: #f04747;
+}
