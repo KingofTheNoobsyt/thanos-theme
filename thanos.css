@@ -70,3 +70,14 @@ background: var(--background-image);background-position: center;;background-size
     width: 50px;
     background-color: #f04747;
 }
+.create-guild-container.deprecated .create-or-join .form-inner {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url(http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/how-will-the-avengers-defeat-thanos.jpg?itok=D06Ndxc9);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 900px;
+    height: 420px;
+    padding: 30px 24px;
+    width: 520px;
+}
