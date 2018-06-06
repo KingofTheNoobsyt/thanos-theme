@@ -181,6 +181,10 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #43b581;
     color: #fff;
 }
+.theme-dark .item-1Yvehc:hover {
+    background: #25282d;
+    color: #f04747;
+}
 .private-channels .channel:hover a {
     background-color: #3a71c1;
     color: #fff;
