@@ -2,6 +2,7 @@
 
 @import url(https://rawgit.com/gco360/thanos-theme/master/thanos.css);
 @import url(https://rawgit.com/gco360/thanos-theme/master/reuben.js);
+
 :root{
     --background-image: url(https://images5.alphacoders.com/907/thumb-1920-907053.jpg);
     --background-brightness: 0.6;
