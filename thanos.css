@@ -208,3 +208,20 @@ div[class^="typeWindows-"] div[class^="wordmark"]::after {
   top: 1px;
   left: 20px;
   display: block; }
+.uploadModal-2ifh8j {
+    -ms-flex-direction: column;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-filter: blur(0);
+    -webkit-perspective: 1000;
+    background-color: rgba(114, 137, 218, 0);
+    border-radius: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    filter: blur(0);
+    flex-direction: column;
+    min-height: 258px;
+    perspective: 1000;
+    width: 520px;
+}
