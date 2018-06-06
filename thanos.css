@@ -40,6 +40,11 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.message-group .edit-message {
+    margin: 6px -6px 0 -130px;
+    padding-bottom: 2px;
+    padding-top: 6px!important;
+}
 .spinner-pulsing-ellipsis .spinner-item {
     -webkit-animation: spinner-ellipsis 1.4s infinite ease-in-out;
     animation: spinner-ellipsis 1.4s infinite ease-in-out;
