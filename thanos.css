@@ -148,6 +148,23 @@ background: var(--background-image);background-position: center;;background-size
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
+.side-8zPYf6 .itemSelected-1qLhcL {
+    background-color: #f04747;
+    color: #fff;
+}
+.guilds-wrapper .guilds-add {
+    background: rgba(170, 67, 181, 0);
+    border: 1px dashed rgba(83, 85, 89, 0);
+    border-radius: 50%;
+    color: #c047f0;
+    font-size: 40px;
+    font-weight: 300;
+    height: 100%;
+    line-height: 100%;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
 .private-channels .channel.selected a {
     background-color: #43b581;
     color: #fff;
