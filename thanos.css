@@ -69,6 +69,9 @@ background: var(--background-image);background-position: center;;background-size
     left: 310px;
     top: 29px;
 }
+.theme-dark .message-group .comment .markup code.inline, .theme-dark .message-group .comment .markup pre code {
+    background: rgba(47, 49, 54, 0);
+}
 .lookOutlined-3sRXeN.colorRed-1TFJan:hover {
     border-color: rgba(240, 71, 71, 0);
 }
