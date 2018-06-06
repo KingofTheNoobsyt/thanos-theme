@@ -78,6 +78,10 @@ background: var(--background-image);background-position: center;;background-size
     width: 240px;
     z-index: 256;
 }
+.mentioned .mention:hover {
+    color: #b271f7;
+    text-decoration: none;
+}
 .theme-dark .typing-2GQL18 span {
     color: hsla(288, 97%, 47%, 0.8);
 }
