@@ -240,3 +240,6 @@ div[class^="typeWindows-"] div[class^="wordmark"]::after {
     perspective: 1000;
     width: 520px;
 }
+.theme-brand .inner-zqa7da {
+    background-color: rgba(142, 161, 225, 0);
+}
