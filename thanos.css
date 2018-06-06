@@ -243,3 +243,12 @@ div[class^="typeWindows-"] div[class^="wordmark"]::after {
 .theme-brand .inner-zqa7da {
     background-color: rgba(142, 161, 225, 0);
 }
+.uploadModal-2ifh8j .inner-3nWsbo {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    border: 2px dashed #8305f5;
+    border-radius: 10px 10px 0 0;
+    color: rgb(251, 5, 5);
+    flex: 1;
+    margin: 10px;
+}
