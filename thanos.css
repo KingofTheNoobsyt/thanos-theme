@@ -178,3 +178,7 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #a747f0;
     color: #fff;
 }
+.theme-dark .inner-zqa7da {
+    background-color: hsla(218, 5%, 47%, 0);
+    border: 2px solid purple;
+}
