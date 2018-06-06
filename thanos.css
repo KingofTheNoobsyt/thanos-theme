@@ -136,6 +136,16 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .itemSubMenu-1vN_Yn {
     background: rgba(40, 43, 48, 0) url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
 }
+.chat .avatar-large {
+    cursor: pointer;
+    opacity: 1;
+    transition: opacity .2s ease;
+    height: 80px;
+    width: 80px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
 .form-deprecated header, .form.deprecated header {
     color: rgba(114, 137, 218, 0);
     font-size: 14px;
