@@ -61,6 +61,13 @@ background: var(--background-image);background-position: center;;background-size
     left: 310px;
     top: 29px;
 }
+.lookOutlined-3sRXeN.colorRed-1TFJan:hover {
+    border-color: rgba(240, 71, 71, 0);
+}
+.lookOutlined-3sRXeN.colorRed-1TFJan {
+    border-color: rgba(240, 71, 71, 0);
+    color: #00b0f4;
+}
 .lookFilled-1Gx00P.colorBrand-3pXr91 {
     background-color: #43b581;
     color: #fff;
