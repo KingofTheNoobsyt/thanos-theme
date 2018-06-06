@@ -152,6 +152,10 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #f04747;
     color: #fff;
 }
+#bd-settings-sidebar .ui-tab-bar-item.selected {
+    color: #fff;
+    background-color: #f04747;
+}
 .guilds-wrapper .guilds-add {
     background: rgba(170, 67, 181, 0);
     border: 1px dashed rgba(83, 85, 89, 0);
