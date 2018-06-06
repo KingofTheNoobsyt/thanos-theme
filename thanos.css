@@ -198,3 +198,13 @@ body.bd-blue .app::before {
 .theme-dark .attachButtonPlus-rUdX-B {
     fill: #fb00f3;
 }
+div[class^="typeWindows-"] div[class^="wordmark"] svg {
+  display: none; }
+div[class^="typeWindows-"] div[class^="wordmark"]::after {
+  content: "Discord/thanos/edition";
+  color: #FFF;
+  font-size: 15px;
+  position: absolute;
+  top: 1px;
+  left: 20px;
+  display: block; }
