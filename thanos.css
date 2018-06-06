@@ -186,3 +186,12 @@ background: var(--background-image);background-position: center;;background-size
     background-color: hsla(218, 5%, 47%, 0);
     border: 2px solid purple;
 }
+body.bd-blue .app::before {
+  content: "Please disable \"BetterDiscord Blue\" mode in BetterDiscord settings.";
+  height: 36px;
+  background-color: #D02E00;
+  color: #FFF;
+  font-size: 15px;
+  line-height: 36px;
+  text-align: center;
+  vertical-align: middle; }
