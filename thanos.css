@@ -78,17 +78,6 @@ background: var(--background-image);background-position: center;;background-size
     width: 240px;
     z-index: 256;
 }
-.create-guild-container.deprecated .create-or-join .form-inner {
-    -webkit-box-sizing: border-box;
-    background-color: rgba(255, 255, 255, 0);
-    background-image: url(http://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/how-will-the-avengers-defeat-thanos.jpg?itok=D06Ndxc9);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: 900px;
-    height: 420px;
-    padding: 30px 24px;
-    width: 520px;
-}
 .theme-dark .typing-2GQL18 span {
     color: hsla(288, 97%, 47%, 0.8);
 }
@@ -286,4 +275,15 @@ div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .sid
 .theme-dark .wrapper-35wsBm {
     background: rgba(47, 49, 54, 0);
     border-color: rgba(47, 49, 54, 0);
+}
+.create-guild-container.deprecated .create-or-join .form-inner {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0);
+    background-image: url(https://www.hdwallpapers.in/thumbs/2018/thanos_in_avengers_infinity_war-t2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 700px;
+    height: 420px;
+    padding: 30px 24px;
+    width: 520px;
 }
