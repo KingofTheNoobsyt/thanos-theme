@@ -270,3 +270,15 @@ div[class^="typeWindows-"] div[class^="wordmark"]::after {
     flex: 1;
     margin: 10px;
 }
+div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .side-8zPYf6 .item-PXvHYJ:nth-of-type(7) {
+    background: red;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; 
+    animation: mymove 5s infinite;
+    color: #fff!important;
+    font-weight: 600!important;
+}
+@-webkit-keyframes mymove {
+    0%   {top: 0px; background: red; width: 1000px;}
+    100% {top: 0px; background: tomato; width: 1000px;}
+}
