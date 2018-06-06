@@ -293,6 +293,9 @@ div[class^="typeWindows-"] div[class^="wordmark"]::after {
     flex: 1;
     margin: 10px;
 }
+.theme-dark .item-1Yvehc {
+    color: #7289da;
+}
 div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .side-8zPYf6 .item-PXvHYJ:nth-of-type(7) {
     background: red;
     position: relative;
