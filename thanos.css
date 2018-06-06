@@ -325,3 +325,9 @@ div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .sid
     padding: 30px 24px;
     width: 520px;
 }
+.bd-pfbtn {
+    background: #00b0f4;
+    color: #FFF;
+    border-radius: 5px;
+    margin-left: 10px;
+}
