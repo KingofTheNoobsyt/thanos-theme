@@ -195,3 +195,6 @@ body.bd-blue .app::before {
   line-height: 36px;
   text-align: center;
   vertical-align: middle; }
+.theme-dark .attachButtonPlus-rUdX-B {
+    fill: #fb00f3;
+}
