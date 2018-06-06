@@ -39,6 +39,16 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.spinner-pulsing-ellipsis .spinner-item {
+    -webkit-animation: spinner-ellipsis 1.4s infinite ease-in-out;
+    animation: spinner-ellipsis 1.4s infinite ease-in-out;
+    display: inline-block;
+    height: 6px;
+    margin-right: 2px;
+    opacity: .3;
+    width: 6px;
+    background-color: #18f5f5;
+}
 .create-guild-container.deprecated .action:hover.create .btn {
     background-color: #f04747;
 }
