@@ -281,5 +281,5 @@ div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .sid
 }
 @-webkit-keyframes mymove {
     0%   {top: 0px; background: red; width: 1000px;}
-    100% {top: 0px; background: tomato; width: 1000px;}
+    100% {top: 0px; background: purple; width: 1000px;}
 }
