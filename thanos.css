@@ -89,6 +89,9 @@ background: var(--background-image);background-position: center;;background-size
     background: rgba(32, 34, 37, 0);
     border-color: rgba(32, 34, 37, 0);
 }
+.theme-dark .itemSubMenu-1vN_Yn {
+    background: rgba(40, 43, 48, 0) url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
+}
 .form-deprecated header, .form.deprecated header {
     color: rgba(114, 137, 218, 0);
     font-size: 14px;
