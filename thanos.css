@@ -52,6 +52,11 @@ background: var(--background-image);background-position: center;;background-size
     background-color: hsla(0, 0%, 12%, 0);
     border: 2px solid;
 }
+.userInfoSectionHeader-CBvMDh {
+    color: #ffffff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
 .theme-dark .modal-3HD5ck {
     -webkit-box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0, 0, 0, 0);
     background-color: rgba(0, 0, 0, 0);
@@ -85,6 +90,20 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .quickswitcher-3JagVE {
     background-color: rgba(47, 49, 54, 0);
     color: #f04747;
+}
+.note-QfFU8y textarea, .note-QfFU8y textarea::-webkit-input-placeholder {
+    color: #ffffff;
+}
+.connectedAccountName-f8AEe2 {
+    -moz-user-select: text;
+    -ms-user-select: text;
+    -webkit-user-select: text;
+    color: #ffffff;
+    margin-left: 10px;
+    user-select: text;
+}
+.theme-dark .headerNormal-T_seeN {
+    background-color: #00b0f4;
 }
 .theme-dark .modal-3HD5ck {
     -webkit-box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0,0,0,.2);
