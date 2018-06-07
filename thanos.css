@@ -44,6 +44,9 @@ background: var(--background-image);background-position: center;;background-size
     background-color: hsla(0, 0%, 12%, 0);
     border: 2px solid;
 }
+.theme-dark .chat .jump-to-present-bar {
+    background-color: #43b581;
+}
 .valueUnchecked-2lU_20 {
     background-color: #f04747;
 }
