@@ -48,6 +48,9 @@ background: var(--background-image);background-position: center;;background-size
     color: #ffffff;
     font-size: larger;
 }
+.theme-dark .selectorSelected-1_M1WV {
+    background-color: #f04747;
+}
 .content-8biNdB h1, .content-8biNdB h2, .content-8biNdB strong {
     font-weight: 700;
     color: rgb(255, 255, 255);
