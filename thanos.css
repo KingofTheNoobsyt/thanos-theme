@@ -40,6 +40,10 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.unread-1xRYoj {
+    background-color: hsla(0, 0%, 12%, 0);
+    border: 2px solid;
+}
 .message-group .edit-message {
     margin: 6px -6px 0 -130px;
     padding-bottom: 2px;
