@@ -70,6 +70,9 @@ background: var(--background-image);background-position: center;;background-size
 .bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {
     background-color: #00b0f4;
 }
+.bda-dark #bda-qem button.active {
+    background-color: #f04747;
+}
 .bda-dark .emoji-picker, .bda-dark .emojiPicker-3m1S-j {
     background-color: #00b0f4;
 }
