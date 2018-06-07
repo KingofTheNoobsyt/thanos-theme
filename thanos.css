@@ -73,6 +73,12 @@ background: var(--background-image);background-position: center;;background-size
 .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6 {
     background-color: #00b0f4;
 }
+.bda-dark #bda-qem button {
+    background: #f04747;
+    border-left: 1px solid rgba(240, 71, 71, 0);
+    box-shadow: rgba(66, 66, 66, 0) 1px 0 0 0;
+    color: #FFF;
+}
 .emojiPicker-3m1S-j .category-2U57w6 {
     color: #ffffff;
     font-size: 12px;
