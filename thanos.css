@@ -60,6 +60,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .bar-2Qqk5Z {
     background: #f04747;
 }
+.theme-dark .chat .jump-to-present-bar:hover {
+    background-color: #f04747;
+}
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
     position: absolute;
     top: 0;
