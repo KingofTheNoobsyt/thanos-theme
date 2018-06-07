@@ -40,6 +40,14 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.theme-dark .content-8biNdB p, .theme-dark .content-8biNdB ul li {
+    color: #ffffff;
+    font-size: larger;
+}
+.content-8biNdB h1, .content-8biNdB h2, .content-8biNdB strong {
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+}
 .unread-1xRYoj {
     background-color: hsla(0, 0%, 12%, 0);
     border: 2px solid;
