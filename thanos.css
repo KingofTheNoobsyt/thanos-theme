@@ -52,9 +52,23 @@ background: var(--background-image);background-position: center;;background-size
     color: #fff !important;
     border: 2px solid #7289da;
 }
+#friends .btn {
+    background-color: #00b0f4;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    padding: 4px 8px;
+}
 .theme-dark #friends .tab-bar .tab-bar-item.selected {
     background-color: #8800f4;
     color: #ffffff;
+}
+.theme-dark .quickswitcher-3JagVE {
+    background-color: rgba(47, 49, 54, 0);
+    color: #f04747;
 }
 .theme-dark .message-group .comment .markup .mention:hover {
     background-color: rgba(115, 139, 215, 0);
