@@ -66,6 +66,29 @@ background: var(--background-image);background-position: center;;background-size
     color: #ffffff;
     font-size: larger;
 }
+.theme-dark .mentionFilter-1PQ6ey .label-12YslM {
+    color: hsl(0, 0%, 100%);
+}
+.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .emptyPlaceholder-1zh-Eu .body-bvcIjN {
+    color: hsl(0, 0%, 100%);
+    font-size: 16px;
+    line-height: 19px;
+}
+.theme-dark .searchPopout-1vUlP3 {
+    -webkit-box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
+    background-color: #00b0f4;
+    border: 1px solid rgba(28, 36, 43, 0);
+    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.02);
+}
+.theme-dark .searchOption-zQ-1l6 .filter-3Y_im- {
+    color: #fcfdff;
+}
+.theme-dark .resultsGroup-r_nuzN .header-2N-gMV {
+    color: #ffffff;
+}
+.theme-dark .searchOption-zQ-1l6 .answer-1n6g43 {
+    color: #000000;
+}
 .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, 
 .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, 
 .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, 
