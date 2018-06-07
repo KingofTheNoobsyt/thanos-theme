@@ -99,6 +99,16 @@ background: var(--background-image);background-position: center;;background-size
     background-position: top;
     filter: brightness(50%);
 }
+
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(240, 71, 71, 0.04);
+    border-color: rgba(240, 71, 71, 0.04);
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: rgba(40, 111, 214, 0.83);
+    border-color: rgba(40, 111, 214, 0.83)
+}
+
 .headerPlaying-j0WQBV {
     background: #00b0f4;
 }
