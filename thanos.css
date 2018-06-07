@@ -144,6 +144,9 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(32, 34, 37, 0);
     border: 2px solid black;
 }
+.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar {
+    background-color: #00b0f4;
+}
 .theme-dark .chat .jump-to-present-bar {
     background-color: #43b581;
 }
