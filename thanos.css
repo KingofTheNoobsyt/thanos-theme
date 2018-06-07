@@ -356,6 +356,9 @@ background-position: center;
     justify-content: flex-end;
     padding: 10px;
 }
+.theme-dark .add-game-popout {
+    background-color: #00b0f4;
+}
 body.bd-blue .app::before {
   content: "Please disable \"BetterDiscord Blue\" mode in BetterDiscord settings.";
   height: 36px;
