@@ -560,6 +560,10 @@ div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .sid
     padding: 30px 24px;
     width: 520px;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #70f;
+    color: #ffffff;
+}
 .bd-pfbtn {
     background: #00b0f4;
     color: #FFF;
