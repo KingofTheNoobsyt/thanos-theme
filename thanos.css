@@ -55,7 +55,10 @@ background: var(--background-image);background-position: center;;background-size
     from {background-color: rgba(32, 34, 37, 0);}
     to {background-color: #000000;}
 }
-
+.theme-dark #friends .friends-table .friends-row:hover {
+    background: rgba(65, 68, 73, 0);
+    border-color: transparent;
+}
 .message-group .edit-message {
     margin: 6px -6px 0 -130px;
     padding-bottom: 2px;
