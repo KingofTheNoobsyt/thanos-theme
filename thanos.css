@@ -69,6 +69,18 @@ background: var(--background-image);background-position: center;;background-size
     background-position: top;
     filter: brightness(50%);
 }
+.headerPlaying-j0WQBV {
+    background: #00b0f4;
+}
+.theme-dark .quickMessage-1yeL4E {
+    background-color: rgb(251, 251, 251);
+    border-color: #23262a;
+    color: hsla(0,0%,100%,.7);
+}
+.theme-dark .note-3kmerW textarea:focus {
+    background-color: rgba(32, 34, 37, 0);
+    border: 2px solid black;
+}
 .theme-dark .chat .jump-to-present-bar {
     background-color: #43b581;
 }
