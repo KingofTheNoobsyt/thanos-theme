@@ -67,6 +67,16 @@ background: var(--background-image);background-position: center;;background-size
     border-radius: 14px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 }
+.unread-1Dp-OI {
+    background-color: #b500f4;
+    border-radius: 0 6px 6px 0;
+    height: 8px;
+    left: 0;
+    margin-top: -4px;
+    position: absolute;
+    top: 50%;
+    width: 4px;
+}
 .bda-slist li {
    
     -webkit-animation-name: example; 
