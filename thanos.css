@@ -102,6 +102,11 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .selectorSelected-1_M1WV {
     background-color: #f04747;
 }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX {
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,20%);
+    background-color: #9a00ff;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0);
+}
 .content-8biNdB h1, .content-8biNdB h2, .content-8biNdB strong {
     font-weight: 700;
     color: rgb(255, 255, 255);
