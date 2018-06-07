@@ -113,6 +113,12 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(47, 49, 54, 0);
     box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
 }
+.theme-dark .select-2TCrqx .Select-menu-outer {
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    background: #00b0f4;
+    border-color: rgba(32, 34, 37, 0);
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.02);
+}
 .create-guild-container.deprecated .action:hover.create .btn {
     background-color: #f04747;
 }
