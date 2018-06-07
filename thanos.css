@@ -89,6 +89,9 @@ background: var(--background-image);background-position: center;;background-size
     padding: 20px;
     background-color: #7289da;
 }
+.theme-dark .topSectionNormal-2-vo2m {
+    background-color: #7289da;
+}
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
     position: absolute;
     top: 0;
