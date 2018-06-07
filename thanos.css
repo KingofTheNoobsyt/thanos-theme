@@ -80,6 +80,10 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .message-group .comment .markup .mention:hover {
     background-color: rgba(115, 139, 215, 0);
 }
+.content-8biNdB h1, .content-8biNdB h2, .content-8biNdB strong {
+    font-weight: 700;
+    color: blueviolet;
+}
 .valueUnchecked-2lU_20 {
     background-color: #f04747;
 }
@@ -109,6 +113,10 @@ background: var(--background-image);background-position: center;;background-size
 }
 .theme-dark .chat .jump-to-present-bar:hover {
     background-color: #f04747;
+}
+.theme-dark .content-8biNdB p, .theme-dark .content-8biNdB ul li {
+    color: #5800ff;
+    font-size: larger;
 }
 .message-group .mentioned .message-text:after {
     background: rgba(250, 166, 26, 0);
