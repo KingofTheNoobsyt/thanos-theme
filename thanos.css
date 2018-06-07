@@ -68,6 +68,9 @@ background: var(--background-image);background-position: center;;background-size
     background: rgba(240, 71, 71, 0);
     opacity: .4;
 }
+.themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: #00b0f4;
+}
 .theme-dark #friends .friends-table .friends-row:hover {
     background: rgba(65, 68, 73, 0);
     border-color: transparent;
