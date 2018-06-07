@@ -162,6 +162,9 @@ background: var(--background-image);background-position: center;;background-size
     background: rgba(65, 68, 73, 0);
     border-color: transparent;
 }
+.theme-dark .root-SR8cQa .note-QfFU8y textarea:focus {
+    background-color: #4f5f96;
+}
 .bda-slist li {
     background: rgba(0, 0, 0, 0);
     border: 1px solid rgba(54, 57, 63, 0);
