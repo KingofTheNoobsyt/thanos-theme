@@ -59,6 +59,9 @@ background: var(--background-image);background-position: center;;background-size
     min-width: 84px;
     padding: 0!important;
 }
+.theme-dark .headerTabBarWrapper-27xBDe .tab-bar.TOP .tab-bar-item {
+    color: hsl(0, 0%, 100%);
+}
 .theme-dark .content-8biNdB p, .theme-dark .content-8biNdB ul li {
     color: #ffffff;
     font-size: larger;
