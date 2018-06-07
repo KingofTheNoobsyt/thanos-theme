@@ -64,6 +64,15 @@ background: var(--background-image);background-position: center;;background-size
     margin-bottom: 10px;
     text-transform: uppercase;
 }
+.container-2Thooq .avatar-small {
+    -ms-flex-negative: 0;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin: 0 10px 0 0;
+    position: absolute;
+    left: 150px;
+    top: 670px;
+}
 .container-2Thooq {
     -ms-flex-align: center;
     -ms-flex-negative: 0;
