@@ -98,9 +98,11 @@ background: var(--background-image);background-position: center;;background-size
     -webkit-box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0, 0, 0, 0);
     background-color: rgba(0, 0, 0, 0);
     box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0,0,0,.2);
-    background-image: url(http://getwallpapers.com/wallpaper/full/c/f/2/167081.jpg);
-    background-position: top;
-    filter: brightness(50%);
+    background-image: url(https://giffiles.alphacoders.com/208/208645.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+        filter: brightness(80%);
 }
 
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
