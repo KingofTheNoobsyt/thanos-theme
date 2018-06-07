@@ -50,6 +50,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, .theme-dark .messages-wrapper .messages .divider span {
     background-color: rgba(54, 57, 62, 0);
 }
+.theme-dark .bar-2Qqk5Z {
+    background: #f04747;
+}
 .bda-slist li {
    
     -webkit-animation-name: example; 
