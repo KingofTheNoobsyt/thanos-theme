@@ -44,6 +44,18 @@ background: var(--background-image);background-position: center;;background-size
     background-color: hsla(0, 0%, 12%, 0);
     border: 2px solid;
 }
+.bda-slist li {
+   
+    -webkit-animation-name: example; 
+    -webkit-animation-duration: 4s; 
+    animation-name: example;
+    animation-duration: 4s;
+}
+@-webkit-keyframes example {
+    from {background-color: rgba(32, 34, 37, 0);}
+    to {background-color: #000000;}
+}
+
 .message-group .edit-message {
     margin: 6px -6px 0 -130px;
     padding-bottom: 2px;
