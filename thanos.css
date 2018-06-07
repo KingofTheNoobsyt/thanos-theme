@@ -70,6 +70,13 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(47, 49, 54, 0);
     color: #f04747;
 }
+.theme-dark .modal-3HD5ck {
+    -webkit-box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0,0,0,.2);
+    background-color: rgba(54, 57, 63, 0);
+    box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0,0,0,.2);
+    background-image: url(http://getwallpapers.com/wallpaper/full/c/f/2/167081.jpg);
+    background-position: top;
+}
 .theme-dark .message-group .comment .markup .mention:hover {
     background-color: rgba(115, 139, 215, 0);
 }
