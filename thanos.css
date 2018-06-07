@@ -56,6 +56,9 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #8800f4;
     color: #ffffff;
 }
+.theme-dark .message-group .comment .markup .mention:hover {
+    background-color: rgba(115, 139, 215, 0);
+}
 .valueUnchecked-2lU_20 {
     background-color: #f04747;
 }
