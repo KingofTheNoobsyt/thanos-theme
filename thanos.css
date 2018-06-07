@@ -70,6 +70,10 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .chat .jump-to-present-bar:hover {
     background-color: #f04747;
 }
+.activity-1ythUs {
+    padding: 20px;
+    background-color: #7289da;
+}
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
     position: absolute;
     top: 0;
