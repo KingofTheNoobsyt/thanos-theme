@@ -57,6 +57,16 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .bar-2Qqk5Z {
     background: #f04747;
 }
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #f04747;
+    border-radius: 14px;
+    transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
+}
 .bda-slist li {
    
     -webkit-animation-name: example; 
