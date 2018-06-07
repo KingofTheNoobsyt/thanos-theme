@@ -55,7 +55,9 @@ background: var(--background-image);background-position: center;;background-size
 .valueUnchecked-2lU_20 {
     background-color: #f04747;
 }
-
+.theme-dark .body-3ND3kc {
+    background-color: #7289da;
+}
 .theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, .theme-dark .messages-wrapper .messages .divider span {
     background-color: rgba(54, 57, 62, 0);
 }
