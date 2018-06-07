@@ -52,8 +52,8 @@ background: var(--background-image);background-position: center;;background-size
     animation-duration: 4s;
 }
 @-webkit-keyframes example {
-    from {background-color: rgba(32, 34, 37, 0);}
-    to {background-color: #000000;}
+    from {background-color:#000000;}
+    to {background-color: rgba(32, 34, 37, 0)}
 }
 .theme-dark #friends .friends-table .friends-row:hover {
     background: rgba(65, 68, 73, 0);
