@@ -40,6 +40,12 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.uploadModal-2ifh8j .footer-3mqk7D .button-primary {
+    -webkit-transition: opacity .2s ease-in-out;
+    background-color: #b108fb;
+    color: #ffffff;
+    transition: opacity .2s ease-in-out;
+}
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: rgba(47, 49, 54, 0);
     color: hsla(0, 0%, 100%, 0.8);
