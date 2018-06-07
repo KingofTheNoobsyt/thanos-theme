@@ -70,6 +70,17 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .chat .jump-to-present-bar:hover {
     background-color: #f04747;
 }
+.message-group .mentioned .message-text:after {
+    background: rgba(250, 166, 26, 0);
+    border-left: 7px solid #9408ff;
+    border-radius: 2px 0 0 2px;
+    bottom: 0;
+    content: " ";
+    left: -6px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+}
 .activity-1ythUs {
     padding: 20px;
     background-color: #7289da;
