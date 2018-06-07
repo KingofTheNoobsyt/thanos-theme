@@ -102,6 +102,13 @@ background: var(--background-image);background-position: center;;background-size
 .create-guild-container.deprecated .action:hover.create .btn {
     background-color: #f04747;
 }
+.avatar-small{
+ height:40px;
+width:40px;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
 .avatar-xxlarge {
     background-size: 100px 100px;
     height: 100px;
