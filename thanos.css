@@ -68,6 +68,9 @@ background: var(--background-image);background-position: center;;background-size
     padding: 4px;
     font-size: large;
 }
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+    background-color: #faa61a;
+}
 .theme-dark .modal-3HD5ck {
     -webkit-box-shadow: 0 0 0 1px rgba(32, 34, 37, 0), 0 2px 10px 0 rgba(0,0,0,.2);
     background-color: rgba(54, 57, 63, 0);
