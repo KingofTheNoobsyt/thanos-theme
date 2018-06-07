@@ -111,6 +111,9 @@ background: var(--background-image);background-position: center;;background-size
 #bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
     background: #00b0f4;
 }
+.chat .new-messages-bar:hover {
+    background-color: #f04747;
+}
 @-webkit-keyframes example {
     from {background-color:#000000;}
     to {background-color: rgba(32, 34, 37, 0)}
