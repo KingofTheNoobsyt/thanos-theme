@@ -40,6 +40,18 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.mention:hover {
+    background-color: rgba(114, 137, 218, 0);
+    color: #f04747;
+    cursor: pointer;
+}
+.mention {
+    -webkit-transition: background-color .05s,color .05s;
+    background: rgba(241, 243, 251, 0);
+    color: #f9ff00;
+    font-weight: 500;
+    transition: background-color .05s,color .05s;
+}
 .theme-dark .message-group .comment .markup pre {
     background: rgba(47, 49, 54, 0);
     border-color: #282b30;
