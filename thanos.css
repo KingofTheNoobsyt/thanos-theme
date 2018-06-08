@@ -62,6 +62,12 @@ background: var(--background-image);background-position: center;;background-size
 .contentSelectedText-3wUhMi {
     background-color: #f04747;
 }
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+    background-color: #fbd900;
+}
+.nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
+    color: #f6f6f7;
+}
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: rgba(47, 49, 54, 0);
     color: hsla(0, 0%, 100%, 0.8);
