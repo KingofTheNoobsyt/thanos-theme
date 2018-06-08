@@ -72,6 +72,12 @@ background: var(--background-image);background-position: center;;background-size
     background-color: rgba(47, 49, 54, 0);
     color: hsla(0, 0%, 100%, 0.8);
 }
+.guilds-wrapper .guilds .guild.unread:before {
+    background: #f04747;
+    border-radius: 5px;
+    height: 10px;
+    margin-top: -6px;
+}
 .bda-dark #bda-qem button:hover {
     background-color: #00b0f4;
 }
