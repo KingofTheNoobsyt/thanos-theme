@@ -59,6 +59,14 @@ background: var(--background-image);background-position: center;;background-size
     left: 150px;
     top: 650px;
 }
+.guilds-wrapper .guilds .guild.selected:before {
+    -webkit-transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+    background: #edff00;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: -20px;
+    transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+
 .contentSelectedText-3wUhMi {
     background-color: #f04747;
 }
