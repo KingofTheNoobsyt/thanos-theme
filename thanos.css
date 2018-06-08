@@ -52,6 +52,17 @@ background: var(--background-image);background-position: center;;background-size
     font-weight: 500;
     transition: background-color .05s,color .05s;
 }
+#dv-mount {
+    background-color: rgba(47, 49, 54, 0);
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 95px;
+    justify-content: center;
+    position: absolute;
+    width: 240px;
+    z-index: 256;
+}
 .theme-dark .message-group .comment .markup pre {
     background: rgba(47, 49, 54, 0);
     border-color: #282b30;
