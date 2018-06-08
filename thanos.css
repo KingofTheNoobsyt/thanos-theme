@@ -40,6 +40,10 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.theme-dark .message-group .comment .markup pre {
+    background: rgba(47, 49, 54, 0);
+    border-color: #282b30;
+}
 .uploadModal-2ifh8j .footer-3mqk7D .button-primary {
     -webkit-transition: opacity .2s ease-in-out;
     background-color: #b108fb;
