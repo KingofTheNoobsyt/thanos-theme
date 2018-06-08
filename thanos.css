@@ -93,13 +93,7 @@ background: var(--background-image);background-position: center;;background-size
     height: 40px;
     margin-top: -20px;
     transition: height .25s ease-in-out,margin-top .25s ease-in-out;
-
-.contentSelectedText-3wUhMi {
-    background-color: #f04747;
-}
-.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
-    background-color: #fbd900;
-}
+    }
 .nameUnreadText-DfkrI4, .nameUnreadVoice-EVo-wI {
     color: #f6f6f7;
 }
