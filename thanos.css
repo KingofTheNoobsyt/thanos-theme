@@ -46,6 +46,15 @@ background: var(--background-image);background-position: center;;background-size
     color: #ffffff;
     transition: opacity .2s ease-in-out;
 }
+.container-2Thooq .avatar-small {
+    -ms-flex-negative: 0;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin: 0 10px 0 0;
+    position: absolute;
+    left: 150px;
+    top: 650px;
+}
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: rgba(47, 49, 54, 0);
     color: hsla(0, 0%, 100%, 0.8);
