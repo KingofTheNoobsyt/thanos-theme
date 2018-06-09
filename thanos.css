@@ -77,15 +77,6 @@ background: var(--background-image);background-position: center;;background-size
     background-color: hsla(0, 0%, 100%, 0);
     border: 2px solid tomato;
 }
-.container-2Thooq .avatar-small {
-    -ms-flex-negative: 0;
-    cursor: pointer;
-    flex-shrink: 0;
-    margin: 0 10px 0 0;
-    position: absolute;
-    left: 150px;
-    top: 650px;
-}
 .guilds-wrapper .guilds .guild.selected:before {
     -webkit-transition: height .25s ease-in-out,margin-top .25s ease-in-out;
     background: #edff00;
@@ -858,6 +849,24 @@ div.platform-osx .side-8zPYf6 .item-PXvHYJ:nth-of-type(7), div.platform-win .sid
     color: #FFF;
     border-radius: 5px;
     margin-left: 10px;
+}
+.container-2Thooq {
+    -ms-flex-align: center;
+    -ms-flex-negative: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    background: rgba(32,34,37,.3);
+    color: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-shrink: 0;
+    font-size: 14px;
+    font-weight: 400;
+    height: 92px;
+    margin-bottom: 1px;
+    padding: 0 10px;
+    border-top: 6px solid #9300ff;
 }
 .role-2irmRk {
     -webkit-box-sizing: border-box;
