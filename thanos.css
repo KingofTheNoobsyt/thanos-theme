@@ -235,15 +235,7 @@ background: var(--background-image);background-position: center;;background-size
     padding: 0 4px;
     text-transform: uppercase;
 }
-.accountDetails-3k9g4n .username {
-    display: block;
-    max-width: 84px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    position: absolute;
-    top: 700px;
-}
+
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {
     color: #ffffff;
 }
@@ -257,7 +249,7 @@ background: var(--background-image);background-position: center;;background-size
     background-size: cover;
         filter: brightness(80%);
 }
-
+.accountDetails-3k9g4n .username { display: block; max-width: 84px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; position: absolute; top: 700px; }
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
     background-color: rgba(240, 71, 71, 0.04);
     border-color: rgba(240, 71, 71, 0.04);
