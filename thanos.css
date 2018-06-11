@@ -3,9 +3,7 @@
 background: var(--background-image);background-position: center;;background-size: cover;}
 .ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
 .layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
-/* optionally adjust background brightness (0: original image, 1: black) */
 .layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
-/*Layer Transparency*/
 .content .flex-spacer{background-color: rgba(0,0,0,0) !important;}
 .content-region{background-color: rgba(0,0,0,0) !important;}
 .headerBar-UHpsPw{background-color: rgba(0,0,0,0) !important;}
