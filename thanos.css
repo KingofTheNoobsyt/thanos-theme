@@ -43,6 +43,9 @@ background: var(--background-image);background-position: center;;background-size
     color: #f04747;
     cursor: pointer;
 }
+.theme-dark .keyboardShortcutsModal-3piNz7 {
+    background-color: rgba(54, 57, 63, 0);
+}
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: rgba(241, 243, 251, 0);
