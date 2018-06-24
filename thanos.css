@@ -46,6 +46,21 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .keyboardShortcutsModal-3piNz7 {
     background-color: rgba(54, 57, 63, 0);
 }
+.article-FleDq5 {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(32, 34, 37, 0);
+    border-radius: 5px;
+    bottom: 0;
+    box-sizing: border-box;
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: rgba(241, 243, 251, 0);
