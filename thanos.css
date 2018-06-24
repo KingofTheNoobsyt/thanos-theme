@@ -61,6 +61,28 @@ background: var(--background-image);background-position: center;;background-size
     right: 0;
     top: 0;
 }
+.paginationItem-3-MBTL:after {
+    background: -webkit-gradient(linear,right top,left top,from(transparent),to(rgba(32, 34, 37, 0)));
+    background: linear-gradient(270deg,transparent 0,rgba(32, 34, 37, 0));
+    background-blend-mode: color;
+    border-radius: 5px;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.theme-dark .header-1RC2Wb:hover {
+    background-color: #00b0f4;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    background-color: #00b0f4;
+    color: #060606;
+}
+.theme-dark .body-SKIE6r {
+    background-color: rgb(0, 0, 0);
+}
 .mention {
     -webkit-transition: background-color .05s,color .05s;
     background: rgba(241, 243, 251, 0);
