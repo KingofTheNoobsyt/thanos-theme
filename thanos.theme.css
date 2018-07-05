@@ -1,6 +1,7 @@
 //META{"name":"thanos theme","description":"infinity war themes","author":"Reuben","version":"1.0"}*//{}
 
 @import url(https://rawgit.com/gco360/thanos-theme/master/thanos.css);
+@import url(https://rawgit.com/gco360/welcome.plugin.js/master/RubenGCO.plugin.js); // simple hi info plugin 
 
 :root{
     --background-image: url(https://images5.alphacoders.com/907/thumb-1920-907053.jpg);
