@@ -68,6 +68,22 @@ background: var(--background-image);background-position: center;;background-size
     right: 0;
     top: 0;
 }
+.reaction {
+    -moz-user-select: none;
+    -ms-flex-negative: 0;
+    -ms-user-select: none;
+    -webkit-box-sizing: border-box;
+    -webkit-transition: background-color .1s ease;
+    -webkit-user-select: none;
+    border: solid 2px rgba(214, 18, 214, 0.55);
+    box-sizing: border-box;
+    cursor: pointer;
+    flex-shrink: 0;
+    margin: 2px;
+    padding: 0 6px;
+    transition: background-color .1s ease;
+    user-select: none;
+}
 .paginationItem-3-MBTL:after {
     background: -webkit-gradient(linear,right top,left top,from(transparent),to(rgba(32, 34, 37, 0)));
     background: linear-gradient(270deg,transparent 0,rgba(32, 34, 37, 0));
