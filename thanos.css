@@ -795,6 +795,9 @@ background-position: center;
     background-size: 50px 50px;
     height: 50px;
     width: 50px;
+    background-color: transparent !important;
+        z-index: 10;
+        color: transparent !important;
 }
 .theme-dark .member-3W1lQa.popout-open .content-OzHfo4, .theme-dark .member-3W1lQa.popout-open:hover .content-OzHfo4 {
     background-color: #a747f0;
