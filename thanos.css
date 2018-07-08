@@ -43,7 +43,7 @@ background: var(--background-image);background-position: center;;background-size
 }
 .message-group .emoji{
  height: 80px;
- width: 70px;
+ width: 80px;
 }
 .mention:hover {
     background-color: rgba(114, 137, 218, 0);
@@ -591,8 +591,8 @@ background-position: center;
     height: 100px;
     width: 100px;
     position: absolute;
-    left: 310px;
-    top: 29px;
+    left: 159px;
+    top: 9px;
 }
 .theme-dark .message-group .comment .markup code.inline, .theme-dark .message-group .comment .markup pre code {
     background: rgba(47, 49, 54, 0);
