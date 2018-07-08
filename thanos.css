@@ -38,6 +38,13 @@ background: var(--background-image);background-position: center;;background-size
     font-size: small;
     text-shadow: 0 0 2px rgba(255, 255, 255, 0);
 }
+.theme-dark .reaction.reaction-me {
+    background: rgba(0, 176, 244, 0);
+}
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
 .mention:hover {
     background-color: rgba(114, 137, 218, 0);
     color: #f04747;
