@@ -53,6 +53,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .keyboardShortcutsModal-3piNz7 {
     background-color: rgba(54, 57, 63, 0);
 }
+.theme-dark .searchBar-1MOL6S {
+    background-color: rgba(0, 176, 244, 0);
+}
 .article-FleDq5 {
     -webkit-box-sizing: border-box;
     background-color: rgba(32, 34, 37, 0);
@@ -74,6 +77,26 @@ background: var(--background-image);background-position: center;;background-size
 }
 .theme-dark .questionMark-CWEQZn {
     background-color: #00b0f4;
+}
+.bda-slist .bda-header {
+    color: #f04747;
+    font-weight: 700;
+    font-size: 12px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 5px;
+}
+.bda-slist .bda-description {
+    margin: 5px 0;
+    color: #f6f6f7;
+    overflow-y: auto;
+    max-height: 100px;
+    padding: 5px 0;
+    word-break: break-word;
+    text-transform: capitalize;
 }
 .reaction {
     -moz-user-select: none;
