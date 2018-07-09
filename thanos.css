@@ -385,7 +385,10 @@ background: var(--background-image);background-position: center;;background-size
 }
 .autocompleteInner-zh20B_ {
     padding-bottom: 8px;
-    background-color: #7289da;
+    background-color: rgb(127, 14, 202);
+}
+.theme-dark .contentTitle-2tG_sM {
+    color: #ffffff;
 }
 #friends .btn {
     background-color: #00b0f4;
