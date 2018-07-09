@@ -88,7 +88,7 @@ background: var(--background-image);background-position: center;;background-size
     align-items: center;
     border-bottom: 1px solid rgba(255,255,255,0.1);
     padding-bottom: 5px;
-}
+} 
 .bda-slist .bda-description {
     margin: 5px 0;
     color: #f6f6f7;
