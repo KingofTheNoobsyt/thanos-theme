@@ -5,7 +5,10 @@
 
 my discord - https://discord.gg/6fXRKyx
 
-
+ pay me if you want on
+ https://blockchain.info/payment_request?address=1MrJi9uybtQMEAifRnYQftwdurFquC77F9&amount=0.0003&message=money
+ or
+ https://www.patreon.com/gco360
 ----------------------------------------------
 ![screenshot_1](https://user-images.githubusercontent.com/31587917/41102767-40da00ce-6a85-11e8-9f2c-b9d0238e3792.png)
 ![screenshot_2](https://user-images.githubusercontent.com/31587917/41102768-4110e83c-6a85-11e8-8a00-947844f37711.png)
