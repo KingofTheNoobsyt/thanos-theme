@@ -7,6 +7,9 @@
 .theme-dark .messagesWrapper-3lZDfY {
     background-color: rgba(54, 57, 63, 0);
 }
+.theme-dark #bd-settings-sidebar .ui-tab-bar-header {
+    color: #43b581;
+}
 #dv-mount {
     background-color: rgba(47, 49, 54, 0);
     bottom: 0;
