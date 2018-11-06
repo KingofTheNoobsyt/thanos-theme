@@ -1,4 +1,4 @@
-.app {
+/*.app {
 background: var(--background-image);background-position: center;;background-size: cover;}
 .layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
 .layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
@@ -19,4 +19,21 @@ background: var(--background-image);background-position: center;;background-size
 .ui-standard-sidebar-view{background-color: rgba(0,0,0,0) !important;}
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
 .ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
-.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}*/
+
+.theme-dark .guild-1EfMGQ.unread-qLkInr:before {
+    background: #f04747;
+}
+.theme-dark .guild-1EfMGQ.selected-ML3OIq:before {
+    background: #43b581;
+}
+.isMentionedCozy-3isp7y:after {
+    background: rgba(185, 26, 250, 0.2);
+    border-left: 7px solid #a747f0;
+    border-radius: 5px 0 0 6px;
+    bottom: 0;
+    left: -4px;
+    position: absolute;
+    top: 0;
+    width: 2px;
+}
