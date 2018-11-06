@@ -4,6 +4,9 @@
 .theme-dark .attachPopout-1n-ZKM {
     background-color: #f04747;
 }
+.channel-2QD9_O.selected-1HYmZZ a {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(203, 0, 245, 0.66), rgba(0, 0, 0, 0));
+}
 .theme-dark .guildsWrapper-5TJh6A {
     background-color: rgba(32, 34, 37, 0);
 }
