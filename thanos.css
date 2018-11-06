@@ -1,6 +1,9 @@
 .headerSpotify-zpWxgT {
     background: #faa61a;
 }
+.theme-dark .sidebarRegion-VFTUkN {
+    background: rgba(47, 49, 54, 0);
+}
 .theme-dark .emptyState-N8MHmB {
     border-color: #2f3136;
     color: #ffffff;
