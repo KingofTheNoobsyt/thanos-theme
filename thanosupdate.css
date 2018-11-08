@@ -20,12 +20,11 @@ background: var(--background-image);background-position: center;;background-size
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
 .ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
 .container-2lgZY8{background-color: rgba(0,0,0,0) !important;}*/
-
 .theme-dark .guild-1EfMGQ.unread-qLkInr:before {
-    background: #f04747;
+    background: #00b0f4;
 }
 .theme-dark .guild-1EfMGQ.selected-ML3OIq:before {
-    background: #43b581;
+    background: #8443b5;
 }
 .isMentionedCozy-3isp7y:after {
     background: rgba(185, 26, 250, 0.2);
