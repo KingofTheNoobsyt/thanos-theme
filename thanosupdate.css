@@ -40,6 +40,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .isMentioned-N-h9aa {
     background: rgba(205, 26, 250, 0.1);
 }
+.theme-dark .headerNormal-T_seeN {
+    background-color: #b800f4;
+}
 .theme-dark .isMentioned-N-h9aa .mention:hover, .theme-light .isMentioned-N-h9aa .mention:hover {
     background: transparent;
     color: #a472da;
