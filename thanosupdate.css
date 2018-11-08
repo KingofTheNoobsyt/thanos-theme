@@ -26,6 +26,11 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .guild-1EfMGQ.selected-ML3OIq:before {
     background: #8443b5;
 }
+.theme-dark .guildsAdd-21_IdK {
+    background: rgba(32, 34, 37, 0);
+    border-color: #ffffff;
+    color: #ffffff;
+}
 .isMentionedCozy-3isp7y:after {
     background: rgba(185, 26, 250, 0.2);
     border-left: 7px solid #a747f0;
