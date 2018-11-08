@@ -39,6 +39,13 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .isMentioned-N-h9aa {
     background: rgba(205, 26, 250, 0.1);
 }
+.newMessagesBar-mujexs button:last-child {
+    -webkit-transition: color .2s;
+    color: #ffffff;
+    font-size: 12px;
+    text-transform: uppercase;
+    transition: color .2s;
+}
 .theme-dark .headerNormal-T_seeN {
     background-color: #b800f4;
 }
@@ -61,13 +68,6 @@ background: var(--background-image);background-position: center;;background-size
     background: rgba(67, 181, 129, 0);
     border-color: rgba(47, 49, 54, 0);
     border-left: 5px solid #a747f0;
-}
-.avatar-small {
-    height: 70px;
-    width: 70px;
-    background-repeat: none;
-    background-size: cover;
-    background-position: center;
 }
 .headerPlaying-j0WQBV {
     background: #b800f4;
