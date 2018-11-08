@@ -43,6 +43,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .headerNormal-T_seeN {
     background-color: #b800f4;
 }
+.newMessagesBar-mujexs:hover {
+    background-color: #9f72da;
+}
 .theme-dark .isMentioned-N-h9aa .mention:hover, .theme-light .isMentioned-N-h9aa .mention:hover {
     background: transparent;
     color: #a472da;
