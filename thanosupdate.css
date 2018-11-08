@@ -36,6 +36,12 @@ background: var(--background-image);background-position: center;;background-size
     top: 0;
     width: 2px;
 }
+.contentRegion-3nDuYy #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: rgba(39, 40, 34, 0);
+    color: #fff;
+    border: 0;
+    box-shadow: 0 1px 0 0 rgba(47, 49, 41, 0) inset;
+}
 .theme-dark .isMentioned-N-h9aa {
     background: rgba(205, 26, 250, 0.1);
 }
@@ -117,4 +123,8 @@ background: var(--background-image);background-position: center;;background-size
     text-align: center;
     text-transform: uppercase;
     width: calc(100% - var(--gap) * 2);
+}
+.theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
+    background-color: #9f47f0;
+    color: #fff;
 }
