@@ -61,6 +61,9 @@ background: var(--background-image);background-position: center;;background-size
     background-size: cover;
     background-position: center;
 }
+.headerPlaying-j0WQBV {
+    background: #b800f4;
+}
 .guildNameJoined-H7D9uF:hover {
     text-decoration: none;
 }
