@@ -54,6 +54,13 @@ background: var(--background-image);background-position: center;;background-size
     border-color: rgba(47, 49, 54, 0);
     border-left: 5px solid #a747f0;
 }
+.avatar-small {
+    height: 70px;
+    width: 70px;
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+}
 .guildNameJoined-H7D9uF:hover {
     text-decoration: none;
 }
