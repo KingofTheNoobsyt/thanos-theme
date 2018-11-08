@@ -60,3 +60,7 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .standardSidebarView-3F1I7i {
     background: rgba(54, 57, 63, 0);
 }
+.side-8zPYf6 .itemSelected-1qLhcL {
+    background-color: #00b0f4;
+    color: #fff;
+}
