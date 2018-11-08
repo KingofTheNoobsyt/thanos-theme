@@ -57,3 +57,6 @@ background: var(--background-image);background-position: center;;background-size
 .guildNameJoined-H7D9uF:hover {
     text-decoration: none;
 }
+.theme-dark .standardSidebarView-3F1I7i {
+    background: rgba(54, 57, 63, 0);
+}
