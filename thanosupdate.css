@@ -60,6 +60,9 @@ background: var(--background-image);background-position: center;;background-size
 .theme-dark .headerNormal-T_seeN {
     background-color: #b800f4;
 }
+.topSectionSpotify-1lI0-P {
+    background: #9047f0;
+}
 .newMessagesBar-mujexs:hover {
     background-color: #9f72da;
 }
