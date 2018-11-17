@@ -67,6 +67,9 @@ background: var(--background-image);background-position: center;;background-size
     background-color: #f04747;
     color: #fff;
 }
+.theme-dark .body-3ND3kc {
+    background-color: rgba(250, 166, 26, 0);
+}
 .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi.dividerRed-MKoLlr .dividerContent-2L12VI:before {
     border-color: rgba(240, 71, 71, 0);
 }
